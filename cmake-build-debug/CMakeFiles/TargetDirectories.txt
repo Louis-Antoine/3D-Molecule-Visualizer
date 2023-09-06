@@ -1,3 +1,0 @@
-/Users/louis-antoinelebel/CLionProjects/opengltest/cmake-build-debug/CMakeFiles/opengltest.dir
-/Users/louis-antoinelebel/CLionProjects/opengltest/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/louis-antoinelebel/CLionProjects/opengltest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
